@@ -1,2 +1,2 @@
 # Scopa-C++
-Codice che riproduce il codice di scopa in C++
+Codice che riproduce il gioco di scopa  tramite un algoritmo in C++
